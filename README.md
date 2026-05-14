@@ -36,22 +36,22 @@ The project combines:
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](images/dashboard.png)
 
 ---
 
 # Features
 
-- 📊 Data Visualization Dashboard
-- 📈 Yearly Earnings Trend Analysis
-- 💼 Skill-Based Earnings Comparison
-- 🌍 Geographic Distribution Analysis
-- 🔁 Repeat Client Rate Insights
-- 👨‍💻 Platform Comparison (Upwork, Fiverr, Freelancer.com)
-- 👩‍💼 Gender Earnings Analysis
-- 💹 PKR vs USD Trend Analysis
-- 📍 Power BI Interactive Dashboard
-- 🐍 Python Matplotlib Charts
+- Data Visualization Dashboard
+- Yearly Earnings Trend Analysis
+- Skill-Based Earnings Comparison
+- Geographic Distribution Analysis
+- Repeat Client Rate Insights
+- Platform Comparison (Upwork, Fiverr, Freelancer.com)
+- Gender Earnings Analysis
+- PKR vs USD Trend Analysis
+- Power BI Interactive Dashboard
+- Python Matplotlib Charts
 
 ---
 
@@ -158,17 +158,17 @@ The project compares average earnings between male and female freelancers and hi
 Pakistan-Freelancing-Analysis/
 │
 ├── data/
-│   ├── freelancing_dataset.csv
+│   ├── datasets.csv
 │
 ├── notebooks/
 │   ├── analysis.ipynb
 │
-├── dashboards/
-│   ├── powerbi_dashboard.pbix
+├── poweerbifile/
+│   ├── PakistanFreelancingDashboard.pbix
 │
 ├── images/
 │   ├── pakistan_freelancing_analysis.png
-│   ├── powerbi_dashboard.png
+│   ├── dashboard.png
 │
 ├── README.md
 │
